@@ -1,0 +1,91 @@
+.MenuBar{
+    text-align: center;
+}
+.button{
+    /*background: mediumvioletred;*/
+    width: 6%;
+    margin: 0%;
+    float: right;
+    text-align: center;
+    color: black;
+    padding: -30%;    
+}
+
+.container{
+    margin-left: 0.5%;
+    width: 5%;
+    float: left;
+    /*background: hotpink;*/
+    padding-left:8%;
+    text-align: center;
+    color: darkorchid; 
+}
+
+.images{
+   float: right;
+   position:absolute;
+   top: 20%;
+   right:0.5%;
+    width: 50%;
+    margin-left: 200%;
+    
+}
+.background{
+    background-image: url("images/pizza.png");
+    height: 90%;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+body{
+    
+    /*width: 100%;
+    margin: 5% 5%;*/
+    text-decoration:  lightgreen; 
+
+
+}
+.wrapper{
+    color: mediumvioletred;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.text{
+    float: left;
+    margin: 10%;
+    text-align: center;
+    color:black; 
+    font-size: 300%;
+    display: block;    
+}
+
+.images3{
+    float: left;
+    margin: 0%;
+    position: absolute;
+    top: 65%;
+    left: 0%; 
+    padding: 1%;
+
+    /* div.absolute {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;*/
+}
+.imgposition{
+    /*top: 20%;
+    bottom:50%;*/
+    margin: 30%;
+    padding-left: 10%;
+padding-top: 20%;
+  padding: -50%;
+
+     
+
+    
+}
